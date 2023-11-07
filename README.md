@@ -12,7 +12,10 @@ My name is Elena G Blanco (aka Beelzenef, elenadotnet), code witch, dotnet devel
 - 📹 Teaching at [dottech](https://www.youtube.com/@DotTechES)
 - 🛠️ Co-organizing at [Flutter Málaga](https://www.meetup.com/flutter-malaga)
 
-Timezone: CEST / UTC+2
+Timezone:
+
+- from March to October: CEST / UTC+2
+- from November to Febraury: CET / UTC+1
 
 Let's talk! Spanish/English 👍🏻
 
