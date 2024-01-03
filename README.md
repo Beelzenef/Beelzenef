@@ -42,6 +42,9 @@ Let's talk! Spanish/English 👍🏻
         <a href="https://twitter.com/Beelzenef_/" target="_blank">
             <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
         </a>
+       <a href="https://bsky.app/profile/elenadotnet.bsky.social" target="_blank">
+            <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" />
+        </a>
         <a href="https://www.reddit.com/user/BeelzenefTV/" target="_blank">
            <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
        </a>
