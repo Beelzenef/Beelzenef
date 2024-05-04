@@ -1,8 +1,8 @@
 ## Hi, I'm Elena 👋🏻
 
-My name is Elena G Blanco (aka Beelzenef, elenadotnet), code witch, dotnet developer and dotnet creator
+My name is Elena G Blanco (aka Beelzenef, elenadotnet), code witch, software developer and content creator
 
-- 🔭 Working as backend developer and DevOps facilitator with Microsoft technologies
+- 🔭 Working as software developer and DevOps facilitator with Microsoft technologies
 - 🌱 Learning Flutter and GodotEngine
 - 💬 Ask me about game development, worldbuilding, storytelling...
 - 🏆 I am [Microsoft MVP since 2020](https://mvp.microsoft.com/en-US/mvp/profile/a48ee225-38e8-ea11-a813-000d3a8ccaf5)
