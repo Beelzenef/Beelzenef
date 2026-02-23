@@ -6,10 +6,7 @@ My name is Elena G Blanco (aka Beelzenef, elenadotnet), code witch, software dev
 - 🌱 Learning Flutter and GodotEngine
 - 💬 Ask me about game development, worldbuilding, storytelling...
 - 🏆 I am [Microsoft MVP since 2020](https://mvp.microsoft.com/en-US/mvp/profile/a48ee225-38e8-ea11-a813-000d3a8ccaf5)
-- 🟡 Collaborating with [YesWeTech](https://www.yeswetech.org/)
-- 📝 Writing at [notodoesprogramación](https://www.notodoesprogramacion.es)
 - 💜 Contributing with [Flutteristas](https://flutteristas.org/)
-- 📹 Teaching at [dottech](https://www.youtube.com/@DotTechES)
 - 🛠️ Co-organizing at [Flutter Málaga](https://www.meetup.com/flutter-malaga)
 
 Timezone:
@@ -38,9 +35,6 @@ Let's talk! Spanish/English 👍🏻
    <p>
         <a href="https://www.linkedin.com/in/elena-guzman-blanco/" target="_blank">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://twitter.com/Beelzenef_/" target="_blank">
-            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
         </a>
        <a href="https://bsky.app/profile/elenadotnet.bsky.social" target="_blank">
             <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" />
