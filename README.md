@@ -1,6 +1,6 @@
-## Hi, I'm Elena 👋🏻
+## hey, it's Asher 👋🏻
 
-My name is Elena G Blanco (aka Beelzenef, elenadotnet), code witch, software developer and content creator
+AKA Beelzenef, I'm a code witch, software developer and writer
 
 - 🔭 Working as software developer and DevOps facilitator with Microsoft technologies
 - 🌱 Learning Flutter and GodotEngine
